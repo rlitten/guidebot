@@ -10,6 +10,7 @@ const { promisify } = require("util");
 const readdir = promisify(require("fs").readdir);
 const Enmap = require("enmap");
 const EnmapLevel = require("enmap-level");
+require("dotenv").config();
 
 
 // This is your client. Some people call it `bot`, some people call it `self`,

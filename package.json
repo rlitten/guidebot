@@ -26,9 +26,12 @@
   "dependencies": {
     "chalk": "^2.3.0",
     "discord.js": "^11.3.2",
+    "dotenv": "^5.0.1",
     "enmap": "^2.0.4",
     "enmap-level": "^2.0.2",
+    "mal-scraper": "^2.4.2",
     "moment": "^2.20.1",
-    "moment-duration-format": "^2.2.0"
+    "moment-duration-format": "^2.2.0",
+    "request": "^2.85.0"
   }
 }

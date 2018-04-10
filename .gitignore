@@ -9,6 +9,7 @@ config.js
 config.txt
 data/
 test.js
+.env
 
 # Runtime data
 pids
